@@ -1,0 +1,29 @@
+.app{
+    background-color:cyan;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    row-gap: 20px;
+    column-gap: 15px;
+}
+.top{
+    width:550px;
+    height:300px;
+    background-color:black;
+    padding:10px 50px;
+    border-radius:15px 55px;
+}
+.head1{
+    color:palevioletred;
+    
+}
+.head5{
+    color:wheat ;
+}
+.item{
+    list-style-type: disc;
+    color:lightgreen;
+    font-size: 15px;
+    
+}
